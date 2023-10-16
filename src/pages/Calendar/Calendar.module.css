@@ -1,0 +1,29 @@
+.Title {
+  color: #393939;
+  font-family: Montserrat;
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 117.9%; /* 70.74px */
+  width: 100%;
+  max-width: 1152px;
+}
+.Calendar {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.CardWrapper {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  margin-top: 55px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: space-between;
+}
+.calendarImage {
+  padding-top: 40px;
+}
